@@ -1,6 +1,6 @@
 # Songs
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f909f76b-373f-4601-8b4a-398dccf4cbd2/deploy-status)](https://app.netlify.com/sites/krwjs-songs/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e9bd7c89-6009-4528-9514-020f4a4cb51a/deploy-status)](https://app.netlify.com/sites/wizardly-noether-b07382/deploys)
 
 ReactJS and Redux exploration by Kyle Williams.
 
